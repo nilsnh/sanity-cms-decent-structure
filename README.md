@@ -8,13 +8,13 @@ The goal of this project is to be a reference implementation of a decent hierarc
 
 - [x] Ability to create an infinitely deep tree structure of pages
 - [x] Ability to define page type as a reference to a pageType document. This is to be able to show different templates in the frontend based on the type of content. Yes, we shouldn't tailor content for presentation but I think we at least need something like this.
-- [] Users should be able to edit the page, and any sub-pages.
-- [] The slug of child-pages should automatically be prefixed with the slug of parent page(s).
-- [] Updating a parent-page slug should update the slugs of any children.
-- [] Use initialValue template to ensure that any documents created in the dynamic tree-structure is connected to the correct parent page.
-- [] When clicking on a given page in the desk structure, if the page does not have children it should just give us the document editor.
-- [] The document editor there should have a custom action for creating a sub-page connected to that page. This is required if we implement the previous point.
-- [] Ability to extend any page with extra "meta-blocks". It's not a must but we should show how we can open for extra meta-data on certain pages, as an alternative to adding extra fields on the page type.
+- [x] Users should be able to edit the page, and any sub-pages in the tree structure.
+- [ ] The slug of child-pages should automatically be prefixed with the slug of parent page(s).
+- [ ] Updating a parent-page slug should update the slugs of any children.
+- [ ] Use initialValue template to ensure that any documents created in the dynamic tree-structure is connected to the correct parent page.
+- [ ] When clicking on a given page in the desk structure, if the page does not have children it should just give us the document editor.
+- [ ] The document editor there should have a custom action for creating a sub-page connected to that page. This is required if we implement the previous point.
+- [ ] Ability to extend any page with extra "meta-blocks". It's not a must but we should show how we can open for extra meta-data on certain pages, as an alternative to adding extra fields on the page type.
 
 ## Usage
 
