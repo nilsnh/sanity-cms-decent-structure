@@ -33,3 +33,5 @@ Pull requests that suddenly suggest a lot of changes might not get merged in. Th
 ## License
 
 This repository is licensed under the [AGPLv3 license](LICENSE.md).
+
+Copyright © 2020 Nils Norman Haukås
