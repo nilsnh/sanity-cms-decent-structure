@@ -6510,7 +6510,8 @@ react-popper@^1.0.2:
 
 react-props-stream@^1.0.0:
   version "1.0.0"
-  resolved "https://registry.npmjs.org/react-props-stream/-/react-props-stream-1.0.0.tgz#9d8629c619766085d4b2a107ff9e7c60b72dbaa2"
+  resolved "https://registry.yarnpkg.com/react-props-stream/-/react-props-stream-1.0.0.tgz#9d8629c619766085d4b2a107ff9e7c60b72dbaa2"
+  integrity sha512-LU49rWyoqVwKhZABoziAHCkc0yaCQB3y2g6aOqXNPnArN74agNcQJVP/Kmv38WlL9DblNjC+YGBBrwn/x1Oa7A==
   dependencies:
     recompose "^0.30.0"
 
@@ -6878,7 +6879,7 @@ ripemd160@^2.0.0, ripemd160@^2.0.1:
     hash-base "^3.0.0"
     inherits "^2.0.1"
 
-rxjs@^6.5.3:
+rxjs@^6.5.3, rxjs@^6.5.5:
   version "6.5.5"
   resolved "https://registry.npmjs.org/rxjs/-/rxjs-6.5.5.tgz#c5c884e3094c8cfee31bf27eb87e54ccfc87f9ec"
   dependencies:
