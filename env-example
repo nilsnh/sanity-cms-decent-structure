@@ -1,0 +1,8 @@
+# Copy this file into a file named .env.development before filling out sensitive
+# keys. 
+#
+# See also: 
+# https://www.sanity.io/docs/studio-environment-variables#dot-env-files-env-f5e9e3158896
+
+# Should point to a freshly created Sanity project that you control.
+SANITY_STUDIO_API_PROJECT_ID=
