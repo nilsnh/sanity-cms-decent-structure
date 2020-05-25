@@ -31,6 +31,10 @@
     {
       "implements": "part:@sanity/base/document-actions/resolver",
       "path": "./src/resolveDocumentActions.js"
+    },
+    {
+      "name": "part:@sanity/base/initial-value-templates",
+      "path": "./src/initialValueTemplates.js"
     }
   ]
 }
